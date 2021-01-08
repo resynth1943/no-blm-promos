@@ -1,4 +1,4 @@
-# [No 'Black Lives Matter' promotionals, please](https://www.reddit.com/r/uBlockOrigin/comments/hgeqi9/anyone_considering_creating_a_blm_blocklist/)!
+# [No 'Black Lives Matter' promotionals, please!](https://www.reddit.com/r/uBlockOrigin/comments/hgeqi9/anyone_considering_creating_a_blm_blocklist/)
 
 ![GitHub](https://img.shields.io/github/license/resynth1943/no-blm-promos?style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/resynth1943/no-blm-promos?style=plastic)
