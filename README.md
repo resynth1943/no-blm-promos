@@ -21,4 +21,10 @@ Quite a few developer-focused pages have ramped up their Black Lives Matter adve
 
 **All contributions are welcome**. Submit a merge request if you'd like to add or site, or an issue if you'd like to remove an ineffective / false filter.
 
-If your issue with this repository is purely of political substance, please take it elsewhere. I'll immediately close issues which 'disagree' with this, since they're irrelevant to the project. I will not take harrassment as a result of creating this repository, and any violators of this will be reported to GitHub with swiftness and precision.
+**If your issue with this repository is purely of political substance, please take it elsewhere.** 
+
+I'll immediately close issues which challenge the aim of this repository, since they're not really contributing to the project. I will not take harrassment as a result of creating this repository, and any violators of this will be reported to their respective platforms with swiftness and precision.
+
+## License
+
+Feel free to suggest a license in an issue. I have not decided on one yet, but opinions are always welcome.
