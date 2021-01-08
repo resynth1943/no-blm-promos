@@ -6,6 +6,10 @@ I created this list to allow you to forcefully opt-out of Black Lives Matter pro
 
 I'm personally quite tired of BLM promotional text obscuring technical information on websites like the [RxJS documentation](https://rxjs.io). I'd just like to get my JavaScript development done in peace.
 
+## Political
+
+There are also political issues with the Black Lives Matter, which are best summarised by [this article in The Telegraph](https://www.telegraph.co.uk/news/2020/06/28/does-black-lives-matter-care-black-lives-white-people-threatening/). This list of filters is designed to allow people to opt-out of this movement, especially when they disagree with it on a fundamental level.
+
 ## Contributions
 
 All contributions are welcome. Submit a merge request if you'd like to add or site, or an issue if you'd like to remove an ineffective / false filter.
