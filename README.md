@@ -9,3 +9,5 @@ I'm personally quite tired of BLM promotional text obscuring technical informati
 ## Contributions
 
 All contributions are welcome. Submit a merge request if you'd like to add or site, or an issue if you'd like to remove an ineffective / false filter.
+
+If your issue with this repository is purely of political substance, please take it elsewhere. I'll immediately close issues which 'disagree' with this, since they're irrelevant to the project. I will not take harrassment as a result of creating this repository, and any violators of this will be reported to GitHub with swiftness and precision.
