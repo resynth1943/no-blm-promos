@@ -10,6 +10,10 @@ I'm personally quite tired of BLM promotional text obscuring technical informati
 
 There are also political issues with the Black Lives Matter, which are best summarised by [this article in The Telegraph](https://www.telegraph.co.uk/news/2020/06/28/does-black-lives-matter-care-black-lives-white-people-threatening/). This list of filters is designed to allow people to opt-out of this movement, especially when they disagree with it on a fundamental level.
 
+## Obstructions
+
+Quite a few developer-focused pages have ramped up their Black Lives Matter advertising, which has come to obstruct developers from getting to technical resources. This poses as an annoyance to people who *just want to get work done* at home, in the middle of a global pandemic, without being deep-throated by political movements.
+
 ## Contributions
 
 All contributions are welcome. Submit a merge request if you'd like to add or site, or an issue if you'd like to remove an ineffective / false filter.
